@@ -1,0 +1,16 @@
+{
+  "name": "forkify",
+  "private": true,
+  "version": "1.0.0",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "devDependencies": {
+    "vite": "^2.8.0"
+  },
+  "dependencies": {
+    "number2fraction": "^1.0.2"
+  }
+}
